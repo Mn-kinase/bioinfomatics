@@ -29,6 +29,7 @@
 <span style="color:purple;">两种提出问题的方式
 - <span style="color:purple;">**Hypothesis Driven**
 - <span style="color:purple;">**Data Driven**
+
 ### 算法(Algorithm)与模型(Model)的区别
 - **算法**：算法是一组**明确定义的计算步骤**，用于解决特定问题或执行特定任务。它描述了如何从给定输入数据中产生输出结果。
 - **模型**：模型是**算法在特定数据集上训练得到的结果**，用于对新的输入数据进行预测或分类。
