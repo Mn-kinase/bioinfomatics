@@ -70,4 +70,4 @@
 - [ ] 掌握AI、机器学习等模型的基础知识
 - [ ] **拥有自己独立分析、处理数据的能力**
 
-#  <p style="text-align:center;"> *Fighting!!!*
+#  <div style="text-align: center;"> *Fighting!!!*</div>
